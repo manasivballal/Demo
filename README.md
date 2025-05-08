@@ -1,3 +1,3 @@
 # Demo
-this is my first git repository
-OWner-Manasi Ballal
+this is my first git repository <br>
+Author-Manasi Ballal
