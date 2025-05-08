@@ -1,3 +1,3 @@
 # Demo
 this is my first git repository <br>
-Author-Manasi Ballal (Associte developer)
+Author-Manasi Ballal (Associate developer)
